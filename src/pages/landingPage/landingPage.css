@@ -1,0 +1,13 @@
+.box {
+    height: 400px;
+    width: 400px;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+}
+.heading {
+    color: #fff;
+    text-align: center;
+}
